@@ -1,3 +1,0 @@
-https //backend.course/DimaLetnianchyn
-http://backend.course?name="Dima Letnianchyn"&github_name=DimaLetnianchyn&group="Ð¤ÐÐ-25c"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
-https://bank.gov.ua/NBUStatService/v1/statdirectory/banksfin?date=20200701&period=3&json
