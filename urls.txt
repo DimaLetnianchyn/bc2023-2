@@ -1,4 +1,4 @@
-http://backend.course/DimaLetnianchyn
+http://backend.course#DimaLetnianchyn
 http://backend.course?name=Dima%20Letnuanchyn&github_name=DimaLetnianchyn&group=%D0%A4%D0%95%D0%86-21c&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202
 https://bank.gov.ua/NBUStatService/v1/statdirectory/banksincexp?date=20200701&period=4&json
 
